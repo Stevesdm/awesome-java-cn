@@ -712,3 +712,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * [Vlad Mihalcea on Hibernate](http://vladmihalcea.com/)
 * [Voxxed](https://www.voxxed.com/)
 * [OnJava](http://hao.jobbole.com/onjava/)：O'Reilly Java包含最新的Java技术资讯，优质代码，完全的实例和详解。[官网](http://www.onjava.com/)
+-----------
+##stevejobson
+java测试工具http://jmockit.org/tutorial.html
